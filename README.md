@@ -1,4 +1,4 @@
 # Vislice
-1. Matematika1
+1. Borut Pahor
 2. Matematika2
 3. Matematika3
